@@ -1,0 +1,3 @@
+Конспект «Комплексная защита информации» (стр. 1–61) - https://docs.google.com/document/d/1LrdrlFeNzON6UTmtMuRrTLlpIcOYMdBgv7CBduuFbs8/edit?usp=sharing
+Конспект «Защита информации» (стр. 8–51) - https://docs.google.com/document/d/1LrdrlFeNzON6UTmtMuRrTLlpIcOYMdBgv7CBduuFbs8/edit?usp=sharing
+OWASP на РЕД ОС: выполнение команд, тестирование - https://docs.google.com/document/d/1soJvUO5yDNtUnxt46zSo9STpMd2UmsXo1zxl6K-HEuo/edit?usp=sharing
