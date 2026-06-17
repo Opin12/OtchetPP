@@ -1,0 +1,8 @@
+Документ со всеми переменными (характеристика, дневник, титул и т.д.) - https://drive.google.com/drive/folders/1lHhpXYghk2uKllddIKXOWzTboz7t0__c?usp=sharing
+Google-таблица с данными по переменным - https://docs.google.com/spreadsheets/d/1AKSlwerF21Fu4AA2LxBARHZ6l0Q4NtW6/edit?usp=sharing&ouid=115068369949942439915&rtpof=true&sd=true
+Telegram-бот - https://docs.google.com/document/d/15nE2VCuG22-H27f-41q3cegRNe0kcsq3muOLZb3u7Jg/edit?usp=sharing
+Блок-схема «Работа с документами» - https://drive.google.com/file/d/1UGtLQcqCgD_u_1Wesxi4I7pwrMiC_PgJ/view?usp=sharing
+ER-диаграмма по таблицам СКУД (объединить/нормализовать) - https://drive.google.com/file/d/1RkvF037Z2M_Ir0uxsGC4an-JgqYtxFO9/view?usp=sharing
+Установка DBeaver + SQLite на виртуальной машине с РЕД ОС - https://docs.google.com/document/d/1TkK21oriiZRuPV3TFnPby7Z0pRxu7KijHU0p2mzT4KU/edit?usp=sharing
+SQL-запросы, выводящие все данные из всех таблиц - https://docs.google.com/document/d/1TkK21oriiZRuPV3TFnPby7Z0pRxu7KijHU0p2mzT4KU/edit?usp=sharing
+Код в Google Colab – открытие документа и таблицы, проверка ошибок - https://colab.research.google.com/drive/14rTfIuCSLOErxdP2g49QliCd72ejO4w3?usp=sharing
