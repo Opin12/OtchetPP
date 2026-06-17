@@ -1,0 +1,11 @@
+Лекции по сетям: конспект (IP, DNS, протоколы) - https://docs.google.com/document/d/1-_3XH-tr4qoMie3QUtn4XscqCiiPq5UuxSclD3kVXIo/edit?usp=sharing
+Симулятор paperdraw: перенести схемы из лекций, проверить отказоустойчивость - https://drive.google.com/file/d/1IlfXEnilwDX_aasf7aVZCg7O2L6KFpU-/view?usp=sharing
+Настройка домашнего роутера: записать видео/фото процесса (сброс, задание пароля, переадресация) - https://docs.google.com/document/d/10FYeMAS2AD3-NaPAOnBSU8FSEOL4RRUv0JaSfcLOqYM/edit?usp=sharing
+ViPNet: развернуть виртуальную сеть, выполнить модули А–Г (настройка VPN, компрометация и восстановление, туннелирование, клиенты) - https://docs.google.com/document/d/1co05mtJyf9o1KkiqEOEbtqCcnB81V7qdz0HB5-uUbY8/edit?usp=sharing
+Сборка ПК, подключение периферии, диагностика (фото) - https://drive.google.com/file/d/1_515-UuIyiCxs3HpoV37T90zrOvZUtJj/view?usp=sharing
+Установка РЕД ОС, настройка пользователей, обновление системы, активация средств защиты (скриншоты) - https://docs.google.com/document/d/10RfAycRmff2WD6f5VUNOhI9rTXAi4hrTaBvHCl-PS1o/edit?usp=sharing
+Настройка подключения к сети Интернет: выбор технологии, настройка сетевого интерфейса, выбор тарифного плана у провайдера - https://drive.google.com/file/d/1bbw1PW6RCj8QsB8-3-Fyj9sI2n7HzAOZ/view?usp=sharing
+Установка драйверов принтеров, сканеров, МФУ; настройка параметров подключения к сети (скриншоты) - https://docs.google.com/document/d/10RfAycRmff2WD6f5VUNOhI9rTXAi4hrTaBvHCl-PS1o/edit?usp=sharing
+Управление и учёт входящего и исходящего трафика сети: настройка мониторинга, формирование ежедневных отчётов - https://drive.google.com/file/d/1bbw1PW6RCj8QsB8-3-Fyj9sI2n7HzAOZ/view?usp=sharing
+Интеграция локальной сети в сеть Интернет: прокладка кабельной сети, настройка коммутатора, VLAN, общих папок, доступа к сетевым ресурсам - https://docs.google.com/document/d/1co05mtJyf9o1KkiqEOEbtqCcnB81V7qdz0HB5-uUbY8/edit?usp=sharing
+Установка и настройка серверного ПО: базовая конфигурация IW Traffic Monitor, IW Device Monitor, IW Vision, IW Data Discovery на сервере под РЕД ОС - https://docs.google.com/document/d/1TaRs05KfVpXggnCx-VagF1zDkAbumuoYz9pikSSBW2E/edit?usp=sharing
