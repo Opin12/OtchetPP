@@ -1,0 +1,5 @@
+Установка и настройка Samba, BIND, Apache (httpd) + PHP + MariaDB, Postfix + Dovecot + Roundcube, audit - https://drive.google.com/drive/folders/1XJYLtlAw-jP_lGCa1tF4TBHYB7hr2WkH?usp=sharing
+Создание пользователей и групп (family, parent, brother, sister, mom, father) с заданными паролями - https://docs.google.com/document/d/1qzW8hXL2QdtAKbn0DTRib1ylm0GAmUB-I5qBahgrt4k/edit?usp=sharing
+Настройка файла /etc/hosts (family-pc.local) - https://docs.google.com/document/d/1qzW8hXL2QdtAKbn0DTRib1ylm0GAmUB-I5qBahgrt4k/edit?usp=sharing
+Установка офисного ПО (LibreOffice и т.п.) - https://drive.google.com/file/d/1GAyHTOqrfFz9kyDUx0ma7zBRXSRfetOI/view?usp=sharing
+Настройка браузера и почтового клиента (Thunderbird и т.п.) - https://docs.google.com/document/d/1JARS_OjOSrjgOXdseWTx8l9AvmoWOB5bRcDfvr9O20w/edit?usp=sharing
